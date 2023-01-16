@@ -56,5 +56,5 @@ An application created in Spring 2022 for CSULA's Senior Design Class. <br/>
 2.  Commands not being recognized: some commands in the virtual environment require `python -m` first, such as in step 2.2.
 3.  For instances where an error occurs on start up, and the console window flashes for a brief second, open cmd and use:
     1.  > `cmd /k program_name.py`
-2.  Even after installing all necessary packages, errors where packages are not found while running the app may occur. If all else fails, reach out to Luke. 
+2.  Even after installing all necessary packages, errors where packages are not found while running the app may occur. If all else fails, reach out to Luke or Dang. 
 
