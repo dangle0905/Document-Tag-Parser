@@ -1,0 +1,4 @@
+pdf2image==1.16.0
+PyMuPDF==1.19.5
+pytesseract==0.3.8
+tk==0.1.0

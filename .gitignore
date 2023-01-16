@@ -1,0 +1,12 @@
+/env
+/build
+/dist
+.env
+Document_Tag_Parser_Setup_File.egg-info/
+document_tag_parser.spec
+**/__pycache__
+__pycache__
+appicon.ico
+/DTP_Beta_Release
+DTP_Beta_Release v2.0
+Release-22.01.0-0
